@@ -1,5 +1,5 @@
 # Background-Color-Changer
-Background(Body) Color Changer 
+Background (Body) Color Changer 
 
 ## Preview:
 
