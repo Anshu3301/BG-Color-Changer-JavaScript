@@ -28,7 +28,7 @@ body{
     border-radius: 1em;
 }
 
-#red,#green,#blue,#yellow,#gray,#hotpink,#teal{
+#red,#green,#blue,#yellow,#gray,#hotpink,#teal,#purple{
     min-height: 30px;
     width: 45px;
     cursor: pointer;
