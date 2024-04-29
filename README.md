@@ -1,4 +1,4 @@
-# Background-Color-Changer
+# Background-Color-Changer (JavaScript)
 Background (Body) Color Changer 
 
 ## Preview:
