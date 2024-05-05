@@ -29,6 +29,9 @@ body{
 }
 
 #red,#green,#blue,#yellow,#gray,#hotpink,#teal,#purple{
+    color: black;
+    display: grid;
+    place-items: center;
     min-height: 30px;
     width: 45px;
     cursor: pointer;
